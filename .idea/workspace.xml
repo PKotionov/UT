@@ -43,14 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckTriangleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckTriangleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/triangle/CheckTriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="408">
               <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrdinaryTriangleTNGTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/triangle/OrdinaryTriangleTNGTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/test/java/triangle/DetectTriangleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/triangle/GetSquareTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/triangle/CheckTriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/triangle/OrdinaryTriangleTNGTest.java" />
       </list>
     </option>
   </component>
@@ -125,7 +136,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1288" />
@@ -433,7 +444,7 @@
       <workItem from="1520164423085" duration="3331000" />
       <workItem from="1520427399036" duration="2020000" />
       <workItem from="1520430578883" duration="137000" />
-      <workItem from="1520618730561" duration="239000" />
+      <workItem from="1520618730561" duration="884000" />
     </task>
     <servers />
   </component>
@@ -470,10 +481,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12749000" />
+    <option name="totallyTimeSpent" value="13394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -732,11 +743,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/triangle/CheckTriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="408">
           <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/triangle/OrdinaryTriangleTNGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
