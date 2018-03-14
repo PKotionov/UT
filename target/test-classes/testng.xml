@@ -3,6 +3,7 @@
     <test name="SampleTestOne">
         <classes>
             <class name="triangle.IncorrectTriangleTNGTest"/>
+            <class name="triangle.CorrectTriangleTNGTest"/>
         </classes>
     </test>
 </suite>
